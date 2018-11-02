@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt">
+    <Files>
+      <File FileName="Assets\Scripts\doorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WeaponManager\WeaponManager.cs" Line="64" Column="14" />
+      <File FileName="Assets\Scripts\WeaponManager\Weapon.cs" Line="11" Column="22" />
+      <File FileName="Assets\Scripts\WeaponManager\Pistol.cs" Line="12" Column="18" />
+      <File FileName="Assets\Scripts\WeaponManager\RangedWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WeaponManager\MeleeWeapon.cs" Line="46" Column="2" />
+      <File FileName="Assets\Scripts\WeaponManager\Machete.cs" Line="8" Column="17" />
+      <File FileName="Assets\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\CharController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\TempSpriteSwitch.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\WeaponManager\LeadPipe.cs" Line="5" Column="36" />
+      <File FileName="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

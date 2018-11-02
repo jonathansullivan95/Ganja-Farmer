@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 61abaff1f8cef7449a97dc6416d4ec99
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nigel_IdleRig_0
+    21300002: Nigel_IdleRig_1
+    21300004: Nigel_IdleRig_2
+    21300006: Nigel_IdleRig_3
+    21300008: Nigel_IdleRig_4
+    21300010: Nigel_IdleRig_5
+    21300012: Nigel_IdleRig_6
+    21300014: Nigel_IdleRig_7
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nigel_IdleRig_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47523123, y: 0.594947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d3807feb598d4fb9f83ca587273ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.49324486, y: 0.7441488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc143a717d47741b472568a88cd47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5057159, y: 0.6337513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb1c3f5d966164bae06aeae33efc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4256938, y: 0.6486125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d63a4d2b1725b4fb36e9547543bfc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.7229189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9cb4db10f40284baaaf2332ff60581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 35
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.52229154, y: 0.7229189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d600f1861785784ba28f0ac402985d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 35
+        width: 13
+        height: 6
+      alignment: 9
+      pivot: {x: 0.52286327, y: 0.7105344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e4a00dd67de44893828202591c72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigel_IdleRig_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 45
+        height: 18
+      alignment: 9
+      pivot: {x: 0.48018494, y: 0.41743743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9257f68a4dc548afac63a8da17684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f272aee36f1c3af43869989ea8e385e6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
